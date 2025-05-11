@@ -2,7 +2,7 @@
 
 ### Créditos:
 - Elaboración: Diego Beltrán
-- Partes del material 2024 y 2025 se basan en talleres anteriores, como el notebook de la consejería académica 2021, 2023.
+- Partes del material 2024 y 2025 se basan en talleres anteriores, como el notebook de la consejería académica 2021 y 2023.
 
 ---
 #### Objetivos y aprendizajes esperados 🤠
@@ -10,8 +10,7 @@ En estos talleres se busca que aprendan a crear gráficos utilizando las siguien
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="20"> [Matplotlib](https://matplotlib.org)\
 <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="20"> [Numpy](https://numpy.org)\
-<img src="https://raw.githubusercontent.com/astropy/astropy-logo/981ac2151acbce71c8979af6d54594d9c5825353/astropy_logo_notext.svg" height="20">
-[Astropy](https://www.astropy.org)\
+<img src="https://raw.githubusercontent.com/astropy/astropy-logo/981ac2151acbce71c8979af6d54594d9c5825353/astropy_logo_notext.svg" height="20"> [Astropy](https://www.astropy.org)\
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="20"> [Scipy](https://scipy.org)
 
 El objetivo es que se puedan enfrentar a aquellos ramos de la carrera que involucren la creación y análisis de gráficos
