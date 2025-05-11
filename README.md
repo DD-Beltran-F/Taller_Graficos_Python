@@ -1,18 +1,24 @@
-# 🔭 **Taller de Gráficos en <span style="color:#306998">Py</span><span style="color:#FFD43B">thon</span> (2025)** 📊
-## _Consejería académica de Astronomía 2025_
+# 🔭 **Taller de Gráficos en <span style="color:#306998">Py</span><span style="color:#FFD43B">thon</span>** 📊
+
 ### Créditos:
-- Elaboración notebook: Diego Beltrán
-- Partes del material se basan en el material de talleres anteriores, como el notebook de la consejería académica 2021, 2023 y 2024.
+- Elaboración: Diego Beltrán
+- Partes del material 2024 y 2025 se basan en talleres anteriores, como el notebook de la consejería académica 2021, 2023.
 
 ---
 #### Objetivos y aprendizajes esperados 🤠
-En este taller se busca que aprendan a crear gráficos utilizando la librería [*Matplotlib*](https://matplotlib.org)
-de Python, junto a otras librerías tales como
-[*Numpy*](https://numpy.org), [*Astropy*](https://www.astropy.org) o [*Scipy*](https://scipy.org), de modo que se puedan enfrentar a aquellos ramos de la carrera que involucren la creación y análisis de gráficos
+En estos talleres se busca que aprendan a crear gráficos utilizando las siguientes librerías de Python:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="20"> [Matplotlib](https://matplotlib.org)\
+<img src="https://www.svgrepo.com/show/354127/numpy.svg" height="20"> [Numpy](https://numpy.org)\
+<img src="https://raw.githubusercontent.com/astropy/astropy-logo/981ac2151acbce71c8979af6d54594d9c5825353/astropy_logo_notext.svg" height="20">
+[Astropy](https://www.astropy.org)\
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="20"> [Scipy](https://scipy.org)
+
+El objetivo es que se puedan enfrentar a aquellos ramos de la carrera que involucren la creación y análisis de gráficos
 (también útil para los laboratorios científicos). Está pensado principalmente para estudiantes de segundo y tercer semestre que ya aprobaron
 el ramo "Introducción a la Programación", en especial a aquellos que esten cursando el curso "Introducción al Análisis de Datos".
 
-El taller les enseñará de forma básica estos conceptos, por lo que si requieren aprender algo que no esté en el notebook les sugerimos leer
+El taller les enseñará de forma básica estos conceptos, por lo que si requieren aprender algo que no esté en el notebook se les sugiere leer
 las documentaciones de las librerías, buscar en [Stackoverflow](https://stackoverflow.com/questions) o preguntar a sus ayudantes. 
 
 ---
