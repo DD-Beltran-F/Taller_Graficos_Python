@@ -1,4 +1,10 @@
+#### **Nota:**
+Los talleres 2024 y 2025 fueron creados para la Consejería Académica de Astronomía (PUC), destinada a alumnos de 1ro y 2do año. El taller CECFA-2026 fue creado para el VI Congreso CECFA, destinado a un público de estudiantes de astronomía y física un poco más avanzados.
+
 # 🔭 **Taller de Gráficos en <span style="color:#306998">Py</span><span style="color:#FFD43B">thon</span>** 📊
+
+### Nivel:
+Básico
 
 ### Créditos:
 - Elaboración: Diego Beltrán
@@ -45,4 +51,20 @@ las documentaciones de las librerías, buscar en [Stackoverflow](https://stackov
     7.5 🖼️ Ejemplo 4\
     7.6 🌐 Cambiar parámetros globales\
     7.7 💾 Guardar gráficas como imágenes
+---
+
+# 🔭 Taller de Gráficos en **<span style="color:#306998">Py</span><span style="color:#FFD43B">thon</span>** ─ Congreso **CEC<span style="color:#800000">FA</span>** 2026 📊
+
+### Nivel:
+Intermedio
+
+---
+
+## **CÓMO HACER UN BUEN GRÁFICO SIN MORIR EN EL INTENTO**
+### ✨ _ASTRONOMY EDITION_ 🔭
+
+#### Abstract 🤠
+
+Un gráfico puede parecer algo simple, pero esconde muchas decisiones importantes. En este taller abordaremos la creación de gráficos con Python y Matplotlib a un nivel intermedio–avanzado, aprendiendo a construir figuras mediante una analogía simple: pensar un gráfico como un cuerpo humano. Partiremos por el esqueleto (el diseño y layout de la figura), seguiremos con la musculatura (el control fino de ejes, escalas, errores y barras de colores), luego la piel (estilos, colores, tipografías y detalles visuales), y finalmente el cerebro: cómo hacer que el gráfico comunique correctamente nuestros resultados. A través de ejemplos reales, se discutirán buenas prácticas, errores comunes y estrategias para pasar de gráficos que simplemente “funcionan” a figuras bien estructuradas, visualmente cuidadas y comunicativas.
+
 ---
