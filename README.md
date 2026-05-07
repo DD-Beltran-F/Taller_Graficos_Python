@@ -1,5 +1,5 @@
 #### **Nota:**
-Los talleres 2024 y 2025 fueron creados para la Consejería Académica de Astronomía (PUC), destinada a alumnos de 1ro y 2do año. El taller CECFA-2026 fue creado para el VI Congreso CECFA, destinado a un público de estudiantes de astronomía y física un poco más avanzados.
+Los talleres 2024, 2025 y 2026 fueron creados para la Consejería Académica de Astronomía (PUC), destinada a alumnos de 1ro y 2do año. El taller CECFA-2026 fue creado para el VI Congreso CECFA, destinado a un público de estudiantes de astronomía y física un poco más avanzados.
 
 # 🔭 **Taller de Gráficos en <span style="color:#306998">Py</span><span style="color:#FFD43B">thon</span>** 📊
 
@@ -8,7 +8,7 @@ Básico
 
 ### Créditos:
 - Elaboración: Diego Beltrán
-- Partes del material 2024 y 2025 se basan en talleres anteriores, como el notebook de la consejería académica 2021 y 2023.
+- Partes del material 2024, 2025 y 2026 se basan en talleres anteriores, como el notebook de la consejería académica 2021 y 2023.
 
 ---
 #### Objetivos y aprendizajes esperados 🤠
@@ -27,7 +27,7 @@ El taller les enseñará de forma básica estos conceptos, por lo que si requier
 las documentaciones de las librerías, buscar en [Stackoverflow](https://stackoverflow.com/questions) o preguntar a sus ayudantes. 
 
 ---
-### Contenidos Taller 2025:
+### Contenidos Taller 2026:
 1. **🗃️ Listas, *arrays*, y tablas**
 2. **📃 Escribir y leer archivos `.csv`**
 3. **📊 Crear gráficos**\
